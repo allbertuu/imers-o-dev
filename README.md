@@ -1,4 +1,4 @@
-## Plataforma de Histórias de Superação
+## Plataforma de Histórias de Superação - Imersão Dev Google
 
 ### Visão Geral
 
@@ -9,12 +9,6 @@ Este projeto tem como objetivo criar uma plataforma online onde pessoas possam c
 - **Compartilhar histórias:** Permitir que usuários enviem e compartilhem suas próprias histórias de superação.
 - **Inspirar e motivar:** Criar uma comunidade online onde as pessoas possam se conectar e encontrar inspiração em histórias reais.
 - **Oferecer recursos:** Disponibilizar ferramentas e recursos para que os usuários possam contar suas histórias de forma criativa e eficaz.
-
-### Tecnologias
-
-- **Frontend:** React, JavaScript, CSS (com a paleta de cores definida)
-- **Backend:** Node.js, MongoDB (ou outra base de dados NoSQL)
-- **Cloud:** (Escolha a plataforma, como AWS, GCP ou Azure)
 
 ### Paleta de Cores
 
