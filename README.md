@@ -4,6 +4,14 @@
 
 Este projeto tem como objetivo criar uma plataforma online onde pessoas possam compartilhar suas histórias de superação, inspirando e motivando outras. A plataforma irá combinar a força das narrativas humanas com a tecnologia, oferecendo uma experiência envolvente e inspiradora.
 
+proponho um projeto que une a tecnologia à força das histórias humanas: uma plataforma para compartilhar histórias de superação.
+
+### Por que este projeto?
+
+- Relevância: A jornada de superação é universal e inspiradora. Todos nós, em algum momento, enfrentamos desafios e buscamos exemplos de resiliência.
+- Criatividade: A plataforma pode ir além de um simples blog, utilizando recursos visuais, audiovisuais e interativos para contar as histórias de forma envolvente.
+- Inspiração: Ao compartilhar histórias reais de pessoas que superaram obstáculos, a plataforma pode motivar outras a persistir em seus objetivos e sonhos.
+
 ### Objetivos
 
 - **Compartilhar histórias:** Permitir que usuários enviem e compartilhem suas próprias histórias de superação.
