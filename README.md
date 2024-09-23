@@ -2,9 +2,8 @@
 
 ### Visão Geral
 
-Este projeto tem como objetivo criar uma plataforma online onde pessoas possam compartilhar suas histórias de superação, inspirando e motivando outras. A plataforma irá combinar a força das narrativas humanas com a tecnologia, oferecendo uma experiência envolvente e inspiradora.
-
-proponho um projeto que une a tecnologia à força das histórias humanas: uma plataforma para compartilhar histórias de superação.
+Este projeto foi ideia minha para o desafio da **Imersão Dev Google** promovida pela _Alura_, que tem como objetivo criar uma plataforma online onde pessoas possam compartilhar suas histórias de superação, inspirando e motivando outras.  
+A plataforma irá combinar a força das narrativas humanas com a tecnologia, oferecendo uma experiência envolvente e inspiradora.
 
 ### Por que este projeto?
 
