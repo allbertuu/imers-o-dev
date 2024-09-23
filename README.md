@@ -3,6 +3,8 @@
 ### Visão Geral
 
 Este projeto foi ideia minha para o desafio da **Imersão Dev Google** promovida pela _Alura_, que tem como objetivo criar uma plataforma online onde pessoas possam compartilhar suas histórias de superação, inspirando e motivando outras.  
+> Só é possível usar os conhecimentos básicos passados durante a imersão
+
 A plataforma irá combinar a força das narrativas humanas com a tecnologia, oferecendo uma experiência envolvente e inspiradora.
 
 ### Por que este projeto?
